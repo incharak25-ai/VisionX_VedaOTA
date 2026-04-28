@@ -1,0 +1,21 @@
+## Application Screens
+
+### Fleet dashboard
+![Dashboard](frontend/images/PHOTO-2026-04-28-19-25-15.jpg)
+
+### security Panel
+![Update](frontend/images/PHOTO-2026-04-28-23-41-53.jpg)
+
+### Recovery  Panel
+![Vehicle](frontend/images/PHOTO-2026-04-28-23-45-09.jpg)
+
+---
+
+## System Heatmap
+
+![Heatmap](frontend/images/PHOTO-2026-04-28-23-47-17.jpg)
+
+**Description:**
+- Visual representation of vehicle/system activity  
+- Highlights critical zones and anomalies  
+- Helps in quick decision-making and monitoring
