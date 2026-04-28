@@ -51,5 +51,23 @@ Contribution
 
 
 
-## 📌 Notes
+##  Notes
 Backend system is functional and forms the base of the OTA simulation project. Frontend and advanced features will be added in the next phase.
+
+
+## Checkpoint – 8.30 review
+
+- Added README documentation with project overview, features, and setup instructions
+- Organized repository structure (frontend + backend separation)
+- Cleaned and pushed latest changes to GitHub
+- Improved Git workflow with proper commits
+
+### Current Status
+- Backend: Working (OTA simulation + APIs)
+- Frontend: Basic UI ready
+- Integration: In progress
+
+### Next Immediate Goals
+- Connect frontend with backend APIs
+- Add OTA update status display (success/failure)
+- Improve UI design and user experience
