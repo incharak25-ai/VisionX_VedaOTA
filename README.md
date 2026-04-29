@@ -1,15 +1,21 @@
-## Features
-- OTA update simulation
-- Cyber attack detection demo
-- Rollback protection
-- Multi-panel dashboard
+## Application Screens
 
-## How to Run
+### Fleet Dashboard
+<img src="frontend/images/PHOTO-2026-04-28-19-26-15.jpg" width="600"/>
 
-### Backend
-cd backend  
-npm install  
-npm start  
+### Security Panel
+<img src="frontend/images/PHOTO-2026-04-28-23-41-53.jpg" width="600"/>
 
-### Frontend
-Open frontend/index.html in browser
+### Recovery Panel
+<img src="frontend/images/PHOTO-2026-04-28-23-46-09.jpg" width="600"/>
+
+---
+
+## System Heatmap
+
+<img src="frontend/images/PHOTO-2026-04-28-23-47-17.jpg" width="600"/>
+
+**Description:**
+- Visual representation of vehicle/system activity  
+- Highlights critical zones and anomalies  
+- Helps in quick decision-making and monitoring
